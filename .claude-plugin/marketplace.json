@@ -1,0 +1,16 @@
+{
+  "name": "play-launch-skill",
+  "description": "구글 플레이 콘솔 첫 출시·업데이트를 문답형으로 안내하는 Claude Code 스킬",
+  "owner": {
+    "name": "reddol18"
+  },
+  "plugins": [
+    {
+      "name": "play-launch",
+      "source": "./plugins/play-launch",
+      "description": "안드로이드 앱의 구글 플레이 출시를 사전 점검부터 콘솔 문답 진행, AdMob 스토어 연결까지 안내한다",
+      "category": "productivity",
+      "tags": ["android", "google-play", "admob", "release"]
+    }
+  ]
+}
