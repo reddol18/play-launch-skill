@@ -45,7 +45,7 @@
 
 **[후삼국 궁예전](https://play.google.com/store/apps/details?id=com.aidothat.gungyejeon)** — Google Play
 
-신라 말 난세, 승려 선종이 되어 고을을 지나며 싸우고 고르는 가로 화면 턴제 전략 시뮬레이션.
+신라 말 난세, 승려 선종이 되어 고을을 지나며 싸우고 고르는 가로 화면 시뮬레이션 롤플레잉(SRPG).
 
 `reference/guide.md`에 나오는 「사례 B(게임 앱)」가 이 앱이다. 광고가 들어간 가로형 Capacitor(WebView) 게임의 첫 출시다.
 
